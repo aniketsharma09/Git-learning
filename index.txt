@@ -1,2 +1,2 @@
 this is version 5 of my software 
-done in github
+done in github now
